@@ -12,9 +12,10 @@ const Hero = () => {
               Virtual Dedicated Servers
             </h1>
             <h2 className="text-3xl md:text-4xl font-bold text-cyan-400">Reliable & Secure</h2>
-            <p className="text-lg text-slate-300">
+            <p className="text-lg text-slate-300 max-w-md">
               Your own Simple, Worry Free & Affordable <br />
               VPS Fully Managed By Experts.
+              This website does not provide and service it is part of Saba Tchkusaseli Intership
             </p>
             <p className="text-xl">
               Starting at just <span className="text-red-400 font-bold">$3/mo</span>
