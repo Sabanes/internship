@@ -1,0 +1,76 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- World Map Outline (Simplified) -->
+  <path d="M100,180 C120,160 150,150 180,160 C210,170 240,180 270,170 C300,160 330,140 360,130 C390,120 420,110 450,120 C480,130 510,150 540,160 C570,170 600,180 630,170 C660,160 690,140 700,120" stroke="#334155" stroke-width="2" fill="none"/>
+  <path d="M120,200 C150,190 180,200 210,210 C240,220 270,230 300,220 C330,210 360,190 390,180 C420,170 450,160 480,170 C510,180 540,200 570,210 C600,220 630,230 660,220 C690,210 720,190 730,170" stroke="#334155" stroke-width="2" fill="none"/>
+  <path d="M140,220 C170,210 200,220 230,230 C260,240 290,250 320,240 C350,230 380,210 410,200 C440,190 470,180 500,190 C530,200 560,220 590,230 C620,240 650,250 680,240 C710,230 740,210 750,190" stroke="#334155" stroke-width="2" fill="none"/>
+  
+  <!-- North America -->
+  <circle cx="200" cy="150" r="15" fill="#0066FF" opacity="0.2"/>
+  <circle cx="200" cy="150" r="5" fill="#0066FF"/>
+  <text x="220" y="155" font-family="Arial" font-size="12" fill="white">New York</text>
+  
+  <circle cx="180" cy="160" r="15" fill="#0066FF" opacity="0.2"/>
+  <circle cx="180" cy="160" r="5" fill="#0066FF"/>
+  <text x="160" y="180" font-family="Arial" font-size="12" fill="white">Chicago</text>
+  
+  <circle cx="150" cy="170" r="15" fill="#0066FF" opacity="0.2"/>
+  <circle cx="150" cy="170" r="5" fill="#0066FF"/>
+  <text x="120" y="190" font-family="Arial" font-size="12" fill="white">Los Angeles</text>
+  
+  <circle cx="210" cy="140" r="15" fill="#0066FF" opacity="0.2"/>
+  <circle cx="210" cy="140" r="5" fill="#0066FF"/>
+  <text x="230" y="145" font-family="Arial" font-size="12" fill="white">Toronto</text>
+  
+  <!-- Europe -->
+  <circle cx="400" cy="140" r="15" fill="#3CAEA3" opacity="0.2"/>
+  <circle cx="400" cy="140" r="5" fill="#3CAEA3"/>
+  <text x="420" y="145" font-family="Arial" font-size="12" fill="white">London</text>
+  
+  <circle cx="420" cy="130" r="15" fill="#3CAEA3" opacity="0.2"/>
+  <circle cx="420" cy="130" r="5" fill="#3CAEA3"/>
+  <text x="440" y="135" font-family="Arial" font-size="12" fill="white">Amsterdam</text>
+  
+  <circle cx="440" cy="140" r="15" fill="#3CAEA3" opacity="0.2"/>
+  <circle cx="440" cy="140" r="5" fill="#3CAEA3"/>
+  <text x="460" y="145" font-family="Arial" font-size="12" fill="white">Frankfurt</text>
+  
+  <circle cx="410" cy="150" r="15" fill="#3CAEA3" opacity="0.2"/>
+  <circle cx="410" cy="150" r="5" fill="#3CAEA3"/>
+  <text x="430" y="155" font-family="Arial" font-size="12" fill="white">Paris</text>
+  
+  <!-- Asia Pacific -->
+  <circle cx="600" cy="180" r="15" fill="#FFCC00" opacity="0.2"/>
+  <circle cx="600" cy="180" r="5" fill="#FFCC00"/>
+  <text x="620" y="185" font-family="Arial" font-size="12" fill="white">Singapore</text>
+  
+  <circle cx="650" cy="160" r="15" fill="#FFCC00" opacity="0.2"/>
+  <circle cx="650" cy="160" r="5" fill="#FFCC00"/>
+  <text x="670" y="165" font-family="Arial" font-size="12" fill="white">Tokyo</text>
+  
+  <circle cx="680" cy="220" r="15" fill="#FFCC00" opacity="0.2"/>
+  <circle cx="680" cy="220" r="5" fill="#FFCC00"/>
+  <text x="700" y="225" font-family="Arial" font-size="12" fill="white">Sydney</text>
+  
+  <!-- South America -->
+  <circle cx="280" cy="250" r="15" fill="#FF6B6B" opacity="0.2"/>
+  <circle cx="280" cy="250" r="5" fill="#FF6B6B"/>
+  <text x="300" y="255" font-family="Arial" font-size="12" fill="white">São Paulo</text>
+  
+  <!-- Middle East -->
+  <circle cx="500" cy="180" r="15" fill="#9F7AEA" opacity="0.2"/>
+  <circle cx="500" cy="180" r="5" fill="#9F7AEA"/>
+  <text x="520" y="185" font-family="Arial" font-size="12" fill="white">Dubai</text>
+  
+  <!-- Connection Lines -->
+  <path d="M200,150 L180,160" stroke="#0066FF" stroke-width="1" stroke-dasharray="2"/>
+  <path d="M180,160 L150,170" stroke="#0066FF" stroke-width="1" stroke-dasharray="2"/>
+  <path d="M200,150 L210,140" stroke="#0066FF" stroke-width="1" stroke-dasharray="2"/>
+  
+  <path d="M400,140 L420,130" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="2"/>
+  <path d="M420,130 L440,140" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="2"/>
+  <path d="M400,140 L410,150" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="2"/>
+  
+  <path d="M600,180 L650,160" stroke="#FFCC00" stroke-width="1" stroke-dasharray="2"/>
+  <path d="M600,180 L680,220" stroke="#FFCC00" stroke-width="1" stroke-dasharray="2"/>
+</svg>
+

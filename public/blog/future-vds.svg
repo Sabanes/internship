@@ -1,0 +1,28 @@
+<svg width="600" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="#1E293B"/>
+  
+  <!-- Server Racks -->
+  <rect x="100" y="50" width="400" height="200" rx="5" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  
+  <!-- Server Units -->
+  <rect x="150" y="80" width="300" height="30" rx="3" fill="#1E293B" stroke="#3CAEA3" stroke-width="1"/>
+  <rect x="150" y="120" width="300" height="30" rx="3" fill="#1E293B" stroke="#3CAEA3" stroke-width="1"/>
+  <rect x="150" y="160" width="300" height="30" rx="3" fill="#1E293B" stroke="#3CAEA3" stroke-width="1"/>
+  <rect x="150" y="200" width="300" height="30" rx="3" fill="#1E293B" stroke="#3CAEA3" stroke-width="1"/>
+  
+  <!-- Server Indicators -->
+  <circle cx="170" cy="95" r="5" fill="#0066FF"/>
+  <circle cx="170" cy="135" r="5" fill="#0066FF"/>
+  <circle cx="170" cy="175" r="5" fill="#0066FF"/>
+  <circle cx="170" cy="215" r="5" fill="#0066FF"/>
+  
+  <!-- Future Elements -->
+  <path d="M50,150 C30,100 70,50 120,80" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M550,150 C570,100 530,50 480,80" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M300,20 C250,0 350,0 300,20" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M300,280 C250,300 350,300 300,280" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <!-- Title -->
+  <text x="300" y="270" font-family="Arial" font-size="16" fill="white" text-anchor="middle">The Future of VDS</text>
+</svg>
+

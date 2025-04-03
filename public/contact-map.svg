@@ -1,0 +1,28 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- World Map Outline (Simplified) -->
+  <path d="M100,180 C120,160 150,150 180,160 C210,170 240,180 270,170 C300,160 330,140 360,130 C390,120 420,110 450,120 C480,130 510,150 540,160 C570,170 600,180 630,170 C660,160 690,140 700,120" stroke="#334155" stroke-width="2" fill="none"/>
+  <path d="M120,200 C150,190 180,200 210,210 C240,220 270,230 300,220 C330,210 360,190 390,180 C420,170 450,160 480,170 C510,180 540,200 570,210 C600,220 630,230 660,220 C690,210 720,190 730,170" stroke="#334155" stroke-width="2" fill="none"/>
+  <path d="M140,220 C170,210 200,220 230,230 C260,240 290,250 320,240 C350,230 380,210 410,200 C440,190 470,180 500,190 C530,200 560,220 590,230 C620,240 650,250 680,240 C710,230 740,210 750,190" stroke="#334155" stroke-width="2" fill="none"/>
+
+  <!-- Office Locations -->
+  <circle cx="200" cy="150" r="15" fill="#0066FF" opacity="0.2"/>
+  <circle cx="200" cy="150" r="5" fill="#0066FF"/>
+  <text x="220" y="155" font-family="Arial" font-size="12" fill="white">New York</text>
+
+  <circle cx="400" cy="140" r="15" fill="#3CAEA3" opacity="0.2"/>
+  <circle cx="400" cy="140" r="5" fill="#3CAEA3"/>
+  <text x="420" y="145" font-family="Arial" font-size="12" fill="white">London</text>
+
+  <circle cx="600" cy="180" r="15" fill="#FFCC00" opacity="0.2"/>
+  <circle cx="600" cy="180" r="5" fill="#FFCC00"/>
+  <text x="620" y="185" font-family="Arial" font-size="12" fill="white">Singapore</text>
+
+  <!-- Connection Lines -->
+  <path d="M200,150 L400,140" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M400,140 L600,180" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M600,180 L200,150" stroke="#3CAEA3" stroke-width="1" stroke-dasharray="5,5"/>
+
+  <!-- Title -->
+  <text x="400" y="350" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Global Offices</text>
+</svg>
+

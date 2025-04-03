@@ -1,0 +1,46 @@
+<svg width="600" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="#1E293B"/>
+  
+  <!-- VDS Side -->
+  <rect x="50" y="50" width="200" height="200" rx="5" fill="#0F172A" stroke="#3CAEA3" stroke-width="2"/>
+  <text x="150" y="40" font-family="Arial" font-size="16" fill="white" text-anchor="middle">VDS</text>
+  
+  <!-- VPS Side -->
+  <rect x="350" y="50" width="200" height="200" rx="5" fill="#0F172A" stroke="#0066FF" stroke-width="2"/>
+  <text x="450" y="40" font-family="Arial" font-size="16" fill="white" text-anchor="middle">VPS</text>
+  
+  <!-- Comparison Elements -->
+  <line x1="300" y1="75" x2="300" y2="225" stroke="#334155" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- VDS Features -->
+  <rect x="70" y="75" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="150" y="95" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Dedicated Resources</text>
+  
+  <rect x="70" y="115" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="150" y="135" font-family="Arial" font-size="12" fill="white" text-anchor="middle">High Performance</text>
+  
+  <rect x="70" y="155" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="150" y="175" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Root Access</text>
+  
+  <rect x="70" y="195" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="150" y="215" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Enterprise Grade</text>
+  
+  <!-- VPS Features -->
+  <rect x="370" y="75" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="450" y="95" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Shared Resources</text>
+  
+  <rect x="370" y="115" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="450" y="135" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Variable Performance</text>
+  
+  <rect x="370" y="155" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="450" y="175" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Root Access</text>
+  
+  <rect x="370" y="195" width="160" height="30" rx="3" fill="#1E293B"/>
+  <text x="450" y="215" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Budget Friendly</text>
+  
+  <!--  font-size="12" fill="white" text-anchor="middle">Budget Friendly</text>
+  
+  <!-- Title -->
+  <text x="300" y="270" font-family="Arial" font-size="16" fill="white" text-anchor="middle">VDS vs VPS Comparison</text>
+</svg>
+
